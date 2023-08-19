@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zihan Zhang</h1>
-<h3 align="center">A software engineer</h3>
+<h3 align="center">A software engineer for ZumbaTech from New Zealand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bald-m&label=Profile%20views&color=0e75b6&style=flat" alt="bald-m" /> </p>
 
@@ -7,7 +7,9 @@
 
 - 🔭 I’m currently working on INFO602-Assignment **Zumba App**
 
-- 📫 How to reach me **2411663991@qq.com**
+- 📫 My Email is **2411663991@qq.com**
+
+- 👨‍💻 All of my projects are available at [https://bald-m.github.io/portfolio/](https://github.com/Bald-M)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
