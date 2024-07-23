@@ -9,6 +9,8 @@
 
 - 📫 My Email is **2411663991@qq.com**
 
+- 🔗 My LinkedIn is **https://www.linkedin.com/in/zihan-zhang-8638a3296/**
+
 - 👨‍💻 All of my projects are available at [https://bald-m.github.io/portfolio/](https://github.com/Bald-M)
 
 
