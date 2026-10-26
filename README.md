@@ -1,27 +1,93 @@
-<h1 align="center">Hi 👋, I'm Zihan Zhang</h1>
-<h3 align="center">A software engineer from New Zealand</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bald-m&label=Profile%20views&color=0e75b6&style=flat" alt="bald-m" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bald-m" alt="bald-m" /></a> </p>
-
-- 🔭 I’m currently researching on **Vue** framwork 
-
-- 📫 My Email is **2411663991@qq.com**
-
-- 🔗 My LinkedIn is **https://www.linkedin.com/in/zihan-zhang-8638a3296/**
-
-- 👨‍💻 All of my projects are available at [https://bald-m.github.io/portfolio/](https://github.com/Bald-M)
-
-
-<p align="left">
+<!-- ===================== Header ===================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Zihan%20Zhang&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20New%20Zealand&descSize=18&descAlignY=56&animation=fadeIn" alt="Zihan Zhang" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=620&lines=Python+%C2%B7+Rust+%C2%B7+TypeScript+%C2%B7+Vue;Building+clean%2C+practical+software;Currently+digging+into+the+Vue+ecosystem" alt="Typing intro" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bald-m&show_icons=true&locale=en&layout=compact" alt="bald-m" /></p>
+<p align="center">
+  <a href="https://bald-m.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/zihan-zhang-8638a3296/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:2411663991@qq.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Bald-M&style=for-the-badge&color=2f81f7&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bald-m&show_icons=true&locale=en" alt="bald-m" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bald-m&" alt="bald-m" /></p>
+### 👋 About me
+
+```python
+class ZihanZhang:
+    role       = "Software Engineer"
+    location   = "New Zealand 🇳🇿"
+    daily      = ["Python", "Rust", "TypeScript"]
+    frontend   = ["Vue", "JavaScript", "HTML / CSS"]
+    exploring  = "Vue internals & ecosystem"
+    portfolio  = "https://bald-m.github.io/portfolio/"
+
+    def say_hi(self):
+        return "Thanks for stopping by — feel free to reach out!"
+```
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,ts,js,vue,html,css,cs,java,git,github,vscode&perline=12" alt="Tech stack" />
+</p>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bald-M&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&title_color=2F81F7&icon_color=2F81F7" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bald-M&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=2F81F7&icon_color=2F81F7" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bald-M&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=2F81F7" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bald-M&layout=compact&langs_count=8&hide_border=true&title_color=2F81F7" alt="Top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Bald-M&hide_border=true&theme=dark&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" />
+    <img src="https://streak-stats.demolab.com?user=Bald-M&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="Contribution streak" />
+  </picture>
+</p>
+
+<!-- Generated by .github/workflows/snake.yml (Platane/snk) and pushed to the `output` branch. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bald-M/Bald-M/output/github-snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/Bald-M/Bald-M/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
+
+### 🤖 AI collaboration
+
+I pair with Codex and Claude Code daily. These numbers come live from my
+[AI Usage Atlas](https://codex-usage-atlas-zhangzihan.free-candy-2034.chatgpt.site/) and refresh every few hours.
+
+<p align="center">
+  <a href="https://codex-usage-atlas-zhangzihan.free-candy-2034.chatgpt.site/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodex-usage-atlas-zhangzihan.free-candy-2034.chatgpt.site%2Fdata.json&query=%24.days%5B-1%3A%5D.total_tokens&label=Codex%20tokens%20today&suffix=%20tokens&style=for-the-badge&color=10a37f&logo=openai&logoColor=white" alt="Codex tokens today" /></a>
+  <a href="https://codex-usage-atlas-zhangzihan.free-candy-2034.chatgpt.site/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodex-usage-atlas-zhangzihan.free-candy-2034.chatgpt.site%2Fdata.json&query=%24.claude.days%5B-1%3A%5D.total_tokens&label=Claude%20Code%20tokens%20today&suffix=%20tokens&style=for-the-badge&color=d97757&logo=anthropic&logoColor=white" alt="Claude Code tokens today" /></a>
+  <a href="https://codex-usage-atlas-zhangzihan.free-candy-2034.chatgpt.site/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodex-usage-atlas-zhangzihan.free-candy-2034.chatgpt.site%2Fdata.json&query=%24.days%5B-1%3A%5D.date&label=Last%20update&style=for-the-badge&color=2F81F7" alt="Last update" /></a>
+</p>
+
+### 🚀 Featured projects
+
+All of my work lives at **[bald-m.github.io/portfolio](https://bald-m.github.io/portfolio/)**.
+
+<!-- Pin cards: replace REPO_NAME with your best repos to show them here.
+<p align="center">
+  <a href="https://github.com/Bald-M/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bald-M&repo=REPO_NAME&hide_border=true&title_color=2F81F7" /></a>
+  <a href="https://github.com/Bald-M/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Bald-M&repo=REPO_NAME&hide_border=true&title_color=2F81F7" /></a>
+</p>
+-->
+
+<!-- ===================== Footer ===================== -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="" />
+</p>
